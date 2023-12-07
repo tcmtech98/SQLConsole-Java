@@ -1,4 +1,4 @@
-# tSQLConsole
+# SQLConsole-Java
 
 <i>Works as intended with Java 11. May give errors otherwise.</i><br>
 To make sure that you have the correct version of Java, type "java --version" or use this guide for more info: https://www.java.com/en/download/help/version_manual.html.
@@ -12,4 +12,4 @@ For any other commands included in the program, type "help" to receive a list.<b
 
 # Launching
 
-To launch the console program, type "java -jar tSQLConsole.jar" into CLI.
+To launch the console program, type "java -jar {filename}" into CLI.
